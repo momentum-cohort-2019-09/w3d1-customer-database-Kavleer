@@ -1,0 +1,12 @@
+.profile{
+    display:inline-block;
+    align-content: center;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.email{
+    color: gray;
+}
