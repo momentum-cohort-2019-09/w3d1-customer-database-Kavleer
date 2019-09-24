@@ -12,10 +12,14 @@ ${capitalize(customer.name.first)} ${capitalize(customer.name.last)}
 <div class="email">
 ${customer.email}
 </div>
+<div class="address">
 <div class="street">
 ${customer.location.street}
 </div>
+<div>
 ${customer.location.city}, ${customer.location.state} ${customer.location.postcode}
+</div>
+</div>
 <br>
 
 DOB: ${customer.dob}

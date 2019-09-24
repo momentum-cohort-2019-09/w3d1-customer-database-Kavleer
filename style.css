@@ -13,10 +13,10 @@ img{
 .email{
     color: gray;
 }
-.street{
+.address{
     text-transform: capitalize;
 }
 
-.city{
+/* .city{
     text-transform: capitalize;
-}
+} */
